@@ -1,0 +1,30 @@
+influencer_research_task:
+  description: >
+    Conduct in-depth research to identify and evaluate potential influencers suitable for promoting a new sustainable skincare brand targeting Gen Z audiences. 
+    Consider engagement rates, content relevance, follower authenticity, audience demographics, and niche alignment.
+  expected_output: >
+    A detailed report of the top 10 influencer profiles with key metrics: engagement rate, follower count, audience age group, content themes, brand fit, and risks (if any).
+
+
+campaign_prediction_task:
+  description: >
+    Predict the expected outcomes for an influencer marketing campaign for a sustainable skincare brand targeting Gen Z.
+    Use influencer metrics and historical performance data to forecast KPIs like reach, engagement rate, click-through rate, and potential conversions.
+  expected_output: >
+    A performance forecast report including estimated reach, average engagement, CTR, and conversion likelihood per influencer and in aggregate.
+
+
+optimization_strategy_task:
+  description: >
+    Based on influencer evaluation and predicted campaign performance, suggest strategic improvements to enhance campaign effectiveness.
+    Consider recommendations for better content formats, alternate influencers, timing, or channel selection.
+  expected_output: >
+    A comprehensive strategy document suggesting 3-5 optimization actions with justifications, expected uplift in KPIs, and estimated implementation effort.
+
+
+campaign_summary_task:
+  description: >
+    Review all inputs from influencer research, campaign prediction, and optimization strategy.
+    Summarize the campaign readiness, recommend next steps, and highlight key takeaways for decision-makers.
+  expected_output: >
+    A high-level campaign brief including summary insights, green flags, red flags, and final recommendations.
